@@ -39,7 +39,8 @@
 ### Built With
 
 * [![React][React.js]][React-url]
-
+* [![Django][Django]][Django-url]
+* [![PostgreSQL-url][PostgreSQL]][PostgreSQL-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -77,3 +78,9 @@
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+
+[Django]: https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=
+[Django-url]: https://www.djangoproject.com/
+
+[PostgreSQL]: https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=
+[PostgreSQL-url]: https://www.postgresql.org/
